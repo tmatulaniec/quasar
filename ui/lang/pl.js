@@ -18,7 +18,7 @@ export default {
   },
   date: {
     days: 'Niedziela_Poniedziałek_Wtorek_Środa_Czwartek_Piątek_Sobota'.split('_'),
-    daysShort: 'Nd_Pon_Wt_Śr_Czw_Ptk_Sob'.split('_'),
+    daysShort: 'Nd_Pon_Wt_Śr_Czw_Pt_Sob'.split('_'),
     months: 'Styczeń_Luty_Marzec_Kwiecień_Maj_Czerwiec_Lipiec_Sierpień_Wrzesień_Październik_Listopad_Grudzień'.split('_'),
     monthsShort: 'Sty_Lut_Mar_Kwi_Maj_Cze_Lip_Sie_Wrz_Paź_Lis_Gru'.split('_'),
     firstDayOfWeek: 1, // 0-6, 0 - Sunday, 1 Monday, ...
